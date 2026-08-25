@@ -48,11 +48,36 @@ I'm currently developing my skills in:
 - OpenAI
 - RAG
 
-## 🚀 Featured Projects
+## 🚀 Featured Contributions
 
 ### 🤖 RFP Intelligence System
-RAG-based AI system designed to help organizations retrieve information
-from RFP documents and generate relevant responses.
+
+**Version Comparison & Rollback Logic**  
+Backend contribution for the RFP Intelligence application.
+
+🔗 [View My Branch](https://github.com/ravindutw/rfp-intelligence-app-backend/tree/Chamoda-Implement-version-comparison-%26-rollback-logic)
+
+**Technologies:** Java • Spring Boot • JPA • PostgreSQL
+
+---
+
+### 🧠 Embedding Management
+
+Contribution to the RFP Intelligence system focusing on embedding management.
+
+🔗 [View My Branch](https://github.com/ravindutw/rfp-intelligence-functions/tree/Chamoda-Embeddding-management)
+
+**Technologies:** Python • LangChain • Gemini • OpenAI Embeddings
+
+---
+
+### 🎬 WMT — Showtime Management
+
+Contribution to the WMT project focusing on Showtime Management functionality.
+
+🔗 [View My Branch](https://github.com/amribishrul/WMT/tree/Chamoda-Showtime-Management)
+
+**Technologies:** Java • Spring Boot
 
 
 ## 📫 Connect With Me

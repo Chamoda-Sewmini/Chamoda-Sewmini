@@ -117,7 +117,7 @@ Regression modelling for household electricity consumption analysis, including m
 **Tech:** R · Tidyverse · Regression Analysis
 
 <a href="https://github.com/tdillangakoon/energy-consumption-analysis/tree/Task-5">
-  <img src="https://img.shields.io/badge/View_SM_Project-00A896?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_Contribution-00A896?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>

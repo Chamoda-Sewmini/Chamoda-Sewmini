@@ -82,7 +82,7 @@ Contribution to the WMT project focusing on Showtime Management functionality.
 
 ## 📫 Connect With Me
 
-- LinkedIn: [My LinkedIn](www.linkedin.com/in/chamoda-sewmini-924b79357)
+- LinkedIn: [My LinkedIn](www.linkedin.com/in/chamoda-sewmini)
 - GitHub: [@Chamoda-Sewmini](https://github.com/Chamoda-Sewmini)
 
 <!--
